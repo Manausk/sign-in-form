@@ -80,7 +80,7 @@ body {
   font-weight: 500;
 }
 
-.first text {
+.first .text {
   font-size: 13px;
   color: #8f8f8f;
   margin-top: 12px;
@@ -196,7 +196,7 @@ body {
   font-weight: 500;
 }
 
-input[type="submit"] {
+.button {
   border: none;
   outline: none;
   background-color: #100428;
